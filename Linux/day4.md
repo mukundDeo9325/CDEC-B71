@@ -45,6 +45,8 @@ Understanding the elements of the command prompt helps you navigate and operate 
    - Use `sudo` before commands to execute with administrative privileges.
 
 ## Introduction to Linux Basic Commands
+<img width="1470" height="956" alt="Screenshot 2026-03-13 at 1 35 06 PM" src="https://github.com/user-attachments/assets/f6d7fd76-43c5-4d55-b051-756d5b9623bf" />
+
 Learning the basic commands is essential to mastering Linux:
 - **`ls`**: Lists files and directories.
 - **`cp`**: Copies files.
