@@ -51,15 +51,3 @@ Understanding the elements of the command prompt helps you navigate and operate 
 
 
 ---
-**Monday**
-
-Learning the basic commands is essential to mastering Linux:
-- **`ls`**: Lists files and directories.
-- **`cp`**: Copies files.
-- **`mv`**: Moves or renames files.
-- **`rm`**: Removes files or directories.
-
-
-### Tips for Beginners:
-- Use `Tab` for auto-completion.
-- Use `Up` and `Down` arrow keys to cycle through command history.
